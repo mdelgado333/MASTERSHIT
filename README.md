@@ -1,5 +1,20 @@
-# expectations-vs-reality
-Expectation VS Reality
+# MASTERSHIT
+
+#### Table of Contents
+1. [Introduction](#introduction)
+2. [Future Implementations](#future-implementations)
+3. [Endpoints](#endpoints)
+
+## Introduction
+
+Mastershit is a project developed by Pablo Quintana and me in just 7 days during the last week of the second module at Ironhack's Web Development bootcamp. At first the name of it was Expectation vs Reality due to the fact that the main concept of the social network was to display the contrast between the trailer of a movie and the actual movie. 
+However, the title was too long and in the last days of the project we developed an implementation in which the admin could qualify the trailers of the movies as well as the shorts the users could upload as either Masterpieces or Bullshits. It was then that we came up with the actual name.
+This social network has basically everything another one could have. You can search for trailers, comment on them or warn of possible spoilers, save them as favourite... Once you have reached ten interactions you becomea creator and that comes with the benefits of being able of uploading shorts
+
+## Future Implementations
+There are not a lot of things to add to the app, we could try chunk uploading just fir the shorts to be longer than 10MB
+
+## Endpoints
 
 | Method | URL | description | view |
 | ----- | ------------- | ------------- | --------- |
@@ -57,11 +72,3 @@ Expectation VS Reality
 | `GET`  | `/:userId/messages`  | Retrieve user's received messages | messages |
 | `POST`  | `/:userId/new-message`  | Send a new message | 
 | `POST`  | `/:messageId/delete`  | Delete a message |
-
-
-
-
-
-
-
-
