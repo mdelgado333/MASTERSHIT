@@ -12,7 +12,7 @@ However, the title was too long and in the last days of the project we developed
 This social network has basically everything another one could have. You can search for trailers, comment on them or warn of possible spoilers, save them as favourite... Once you have reached ten interactions you becomea creator and that comes with the benefits of being able of uploading shorts
 
 ## Future Implementations
-There are not a lot of things to add to the app, we could try chunk uploading just fir the shorts to be longer than 10MB
+There are not a lot of things we could add to the app, we could try chunk uploading just fir the shorts to be longer than 10MB
 
 ## Endpoints
 
