@@ -1,9 +1,6 @@
 # expectations-vs-reality
 Expectation VS Reality
 
-HOLA MIGUEL
-
-
 | Method | URL | description | view |
 | ----- | ------------- | ------------- | --------- |
 | `GET`  | `/`  | Index page  | index |
